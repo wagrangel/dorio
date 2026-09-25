@@ -1,0 +1,6 @@
+{
+  "name": "Do Rio Sungless - Óculos & Lifestyle Carioca",
+  "description": "Loja oficial Do Rio Sungless. Óculos de sol polarizados, armações de grau e lifestyle 100% carioca direto para sua casa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
